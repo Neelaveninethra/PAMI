@@ -1,6 +1,6 @@
 ![PyPI](https://img.shields.io/pypi/v/PAMI)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/PAMI)
-[![GitHub license](https://img.shields.io/github/license/UdayLab/PAMI)](https://github.com/UdayLab/PAMI/blob/main/LICENSE)
+[![GitHub license](https://github.com/Neelaveninethra/MITS_C2_22_68.git)](https://github.com/UdayLab/PAMI/blob/main/LICENSE)
 ![PyPI - Implementation](https://img.shields.io/pypi/implementation/PAMI)
 [![Documentation Status](https://readthedocs.org/projects/pami-1/badge/?version=latest)](https://pami-1.readthedocs.io/en/latest/?badge=latest)
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/PAMI)
